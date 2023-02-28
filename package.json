@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "magic-sdk": "^13.4.1",
     "truffle": "^5.7.8"
   }
 }
